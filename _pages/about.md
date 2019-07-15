@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I welcome you all to my GitHub page!
+Hi to all! Welcome to my GitHub page!
 
 My name is Carlos, I am 22 yo and I live in São Paulo
 
